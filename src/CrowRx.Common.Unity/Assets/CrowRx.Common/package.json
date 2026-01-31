@@ -1,0 +1,12 @@
+{
+    "name": "com.crowlib.crowrx.common",
+    "version": "1.0.0",
+    "displayName": "CrowRx Common",
+    "author": {
+        "name": "Hory",
+        "url": "https://github.com/newhory"
+    },
+    "unity": "6000.3",
+    "description": "CrowRx common DLL Package.",
+    "category": "Scripting"
+}
